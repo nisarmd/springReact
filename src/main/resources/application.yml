@@ -1,0 +1,6 @@
+#driverClassName: org.sqlite.JDBC
+#url:  jdbc:sqlite:C:\SqlLite\testDb.db?cache=shared
+#url: jdbc:sqlite:/src/main/resources/testDb?cache=shared
+#hibernate.dialect:  com.nisar.springReact.SQLite.SQLiteDialect
+#hibernate.hbm2ddl.auto :  create-drop
+#hibernate.show_sql :  true
